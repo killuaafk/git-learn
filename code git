@@ -1,0 +1,13 @@
+git init : mengubah file menjadi repo
+pwd : mengecek lokasi git
+cd : mengubah git lokasi
+git status : melihat status git
+git commit : mengcommit file git ( tambah -m buat massage )
+git add . : menambahkan file git
+git branch <nama_branch> :menambah branch
+git log :melihat history alur repo dan commit
+git log --all --decorate --oneline --graph
+git checkout nama branch : mengganti branch
+git merge (nama branch) : menggabungkan branch dengan head nya
+git branch --merge : untuk mengetahui file mana yg akan di merge
+git branch -d (nama branch) : untuk menghappus branch.
